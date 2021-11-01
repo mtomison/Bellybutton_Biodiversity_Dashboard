@@ -1,0 +1,10 @@
+body {
+    color: #000007;
+}
+
+.jumbotron {
+    background-size: 100% 100%;
+    text-align: center;
+    font-weight: bolder;
+}
+
